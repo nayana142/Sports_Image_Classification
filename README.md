@@ -1,7 +1,7 @@
 # Sports_Image_Classification_99%
 ![1695967301062](https://github.com/nayana142/Sports_Image_Classification/assets/120770261/85146345-5bcc-4b26-8732-a8d45f25ab20)
 
-## jupyter Notebook
+## \Kaggle Notebook
      https://www.kaggle.com/code/nayanack/sports-image-classification-99
 
 ## Dataset
